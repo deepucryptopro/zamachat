@@ -2,6 +2,8 @@
 
 **Confidential messaging demo inspired by Zama’s Fully Homomorphic Encryption (FHE)**
 
+**[Live Demo](https://zamachat.vercel.app/)**
+
 ## Overview
 ZamaChat is an educational and experimental messaging application that demonstrates how confidential communication can be built using Fully Homomorphic Encryption (FHE) principles inspired by Zama.
 
